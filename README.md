@@ -25,7 +25,6 @@ En **IQ Innovation**, nos destacamos por ofrecer servicios especializados que se
 
 ### **4. Migración Tecnológica**
 - **Actualización de Sistemas**: Ayudamos a empresas a modernizar aplicaciones y plataformas obsoletas para garantizar su competitividad.
-- **Migración a la Nube**: Facilitamos la transición a infraestructuras cloud, optimizando costos y mejorando la escalabilidad.
 - **Gestión de Datos**: Garantizamos la seguridad y el manejo eficiente de la información durante los procesos de migración.
 
 ## **Por Qué Elegir IQ Innovation**
